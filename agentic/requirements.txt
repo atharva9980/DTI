@@ -1,0 +1,9 @@
+google-adk
+uvicorn
+fastapi
+python-dotenv
+pydantic[email]
+
+requests
+SQLAlchemy
+
